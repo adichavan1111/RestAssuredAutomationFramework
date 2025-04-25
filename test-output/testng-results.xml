@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-25T12:33:35 PDT" name="Suite" finished-at="2025-04-25T12:34:03 PDT" duration-ms="28246">
+    <groups>
+    </groups>
+    <test started-at="2025-04-25T12:33:35 PDT" name="Test" finished-at="2025-04-25T12:34:03 PDT" duration-ms="28246">
+      <class name="api.testcases.UserTestDataDriven">
+        <test-method signature="testCreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:37 PDT" name="testCreateUser" data-provider="AllData" finished-at="2025-04-25T12:33:41 PDT" duration-ms="3310" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2020]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rita]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Gupta]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[a@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[test@1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234567897]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testCreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:41 PDT" name="testCreateUser" data-provider="AllData" finished-at="2025-04-25T12:33:42 PDT" duration-ms="1067" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2021]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Radha]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Jain]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[b@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[test@2]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234567897]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testCreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:42 PDT" name="testCreateUser" data-provider="AllData" finished-at="2025-04-25T12:33:43 PDT" duration-ms="1104" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2022]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Smita]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pathak]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[c@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[test@3]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234567897]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testCreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:43 PDT" name="testCreateUser" data-provider="AllData" finished-at="2025-04-25T12:33:44 PDT" duration-ms="1059" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2024]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Renu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shah]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[renu@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[test@4]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234567897]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testGetUserData(java.lang.String)[pri:2, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:44 PDT" name="testGetUserData" data-provider="userNameData" finished-at="2025-04-25T12:33:45 PDT" duration-ms="1092" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserData -->
+        <test-method signature="testGetUserData(java.lang.String)[pri:2, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:45 PDT" name="testGetUserData" data-provider="userNameData" finished-at="2025-04-25T12:33:46 PDT" duration-ms="1115" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserData -->
+        <test-method signature="testGetUserData(java.lang.String)[pri:2, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:46 PDT" name="testGetUserData" data-provider="userNameData" finished-at="2025-04-25T12:33:47 PDT" duration-ms="1052" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserData -->
+        <test-method signature="testGetUserData(java.lang.String)[pri:2, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:47 PDT" name="testGetUserData" data-provider="userNameData" finished-at="2025-04-25T12:33:48 PDT" duration-ms="1061" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserData -->
+        <test-method signature="testUpdateUser(java.lang.String)[pri:3, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:48 PDT" name="testUpdateUser" data-provider="userNameData" finished-at="2025-04-25T12:33:51 PDT" duration-ms="2358" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testUpdateUser(java.lang.String)[pri:3, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:51 PDT" name="testUpdateUser" data-provider="userNameData" finished-at="2025-04-25T12:33:53 PDT" duration-ms="2190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testUpdateUser(java.lang.String)[pri:3, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:53 PDT" name="testUpdateUser" data-provider="userNameData" finished-at="2025-04-25T12:33:55 PDT" duration-ms="2191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testUpdateUser(java.lang.String)[pri:3, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:55 PDT" name="testUpdateUser" data-provider="userNameData" finished-at="2025-04-25T12:33:57 PDT" duration-ms="2122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testDeleteUser(java.lang.String)[pri:4, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:58 PDT" name="testDeleteUser" data-provider="userNameData" finished-at="2025-04-25T12:33:58 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+        <test-method signature="testDeleteUser(java.lang.String)[pri:4, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:58 PDT" name="testDeleteUser" data-provider="userNameData" finished-at="2025-04-25T12:33:58 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+        <test-method signature="testDeleteUser(java.lang.String)[pri:4, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:58 PDT" name="testDeleteUser" data-provider="userNameData" finished-at="2025-04-25T12:33:58 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+        <test-method signature="testDeleteUser(java.lang.String)[pri:4, instance:api.testcases.UserTestDataDriven@c8c12ac]" started-at="2025-04-25T12:33:58 PDT" name="testDeleteUser" data-provider="userNameData" finished-at="2025-04-25T12:33:58 PDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- api.testcases.UserTestDataDriven -->
+      <class name="api.testcases.userTest">
+        <test-method is-config="true" signature="generateTestData()[pri:0, instance:api.testcases.userTest@5656be13]" started-at="2025-04-25T12:33:58 PDT" name="generateTestData" finished-at="2025-04-25T12:33:58 PDT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestData -->
+        <test-method signature="testCreateUser()[pri:1, instance:api.testcases.userTest@5656be13]" started-at="2025-04-25T12:33:58 PDT" name="testCreateUser" finished-at="2025-04-25T12:33:59 PDT" duration-ms="1056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testGetUserData()[pri:2, instance:api.testcases.userTest@5656be13]" started-at="2025-04-25T12:33:59 PDT" name="testGetUserData" finished-at="2025-04-25T12:34:00 PDT" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserData -->
+        <test-method signature="testUpdateUser()[pri:3, instance:api.testcases.userTest@5656be13]" started-at="2025-04-25T12:34:00 PDT" name="testUpdateUser" finished-at="2025-04-25T12:34:02 PDT" duration-ms="2202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testDeleteUser()[pri:4, instance:api.testcases.userTest@5656be13]" started-at="2025-04-25T12:34:02 PDT" name="testDeleteUser" finished-at="2025-04-25T12:34:03 PDT" duration-ms="1060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- api.testcases.userTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
