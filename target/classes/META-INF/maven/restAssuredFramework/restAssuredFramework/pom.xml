@@ -15,7 +15,11 @@
 					<configuration>
 						 <source>21</source> <!-- Set source to Java 21 -->
        					 <target>21</target> <!-- Set target to Java 21 -->
+       					  <compilerArgs>
+          <arg>--add-exports=jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED</arg> <!-- This allows access to the needed module -->
+        </compilerArgs>
 					</configuration>
+					
 				</plugin>
 
 				<plugin>
@@ -36,6 +40,13 @@
 
 
 	<dependencies>
+
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.24</version> <!-- Use latest stable version -->
+			<scope>provided</scope>
+		</dependency>
 
 
 		<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
@@ -66,7 +77,7 @@
 			<version>8.3.1</version>
 			<scope>runtime</scope>
 		</dependency>
-		
+
 
 		<!--
 		https://mvnrepository.com/artifact/com.github.fge/json-schema-validator -->
@@ -121,5 +132,7 @@
 			<version>2.17.2</version>
 		</dependency>
 	</dependencies>
+	
+	
 
 </project>

@@ -10,3 +10,6 @@
 [INFO ] 2025-04-27 00:08:36.703 [main] RestAssuredAutomationFramework_test - Create User executed.
 [INFO ] 2025-04-27 00:08:37.777 [main] RestAssuredAutomationFramework_test - Get User Data executed.
 [INFO ] 2025-04-27 00:08:40.971 [main] RestAssuredAutomationFramework_test - Delete User executed.
+[INFO ] 2025-04-27 00:16:32.773 [main] RestAssuredAutomationFramework_test - Create User executed.
+[INFO ] 2025-04-27 00:16:33.845 [main] RestAssuredAutomationFramework_test - Get User Data executed.
+[INFO ] 2025-04-27 00:16:37.105 [main] RestAssuredAutomationFramework_test - Delete User executed.
